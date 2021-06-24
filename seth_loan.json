@@ -1,0 +1,102 @@
+[
+  {
+    "account": "0x0a36260b5eD99e002166f10550AfB8F662C6C35D",
+    "collateralAmount": "50.0",
+    "loanAmount": "40.0",
+    "timeCreated": 1596081087,
+    "loanID": 1,
+    "timeClosed": 0,
+    "accruedInterest": "0.00000000113549376",
+    "totalFees": "0.00000000113549376"
+  },
+  {
+    "account": "0x5c46DeeA1783f1d7e9579B963f2021AC1B5BFE7b",
+    "collateralAmount": "2.0",
+    "loanAmount": "1.6",
+    "timeCreated": 1596130795,
+    "loanID": 6,
+    "timeClosed": 0,
+    "accruedInterest": "0.000000000045340218",
+    "totalFees": "0.000000000045340218"
+  },
+  {
+    "account": "0x820B24277A86fAc14ef5150c58B1815Cf9A3Cf46",
+    "collateralAmount": "10.0",
+    "loanAmount": "8.0",
+    "timeCreated": 1597908838,
+    "loanID": 33,
+    "timeClosed": 0,
+    "accruedInterest": "0.000000000212476744",
+    "totalFees": "0.000000000212476744"
+  },
+  {
+    "account": "0x88C407C053bD2F434923ae13CED7213B4d2F8aE8",
+    "collateralAmount": "6.0",
+    "loanAmount": "4.8",
+    "timeCreated": 1599971448,
+    "loanID": 56,
+    "timeClosed": 0,
+    "accruedInterest": "0.000000000117585518",
+    "totalFees": "0.000000000117585518"
+  },
+  {
+    "account": "0x6899f448072222c98E65ce3f29d9CcB92C739ad1",
+    "collateralAmount": "1.0",
+    "loanAmount": "0.8",
+    "timeCreated": 1613277722,
+    "loanID": 98,
+    "timeClosed": 0,
+    "accruedInterest": "0.000000000008952567",
+    "totalFees": "0.000000000008952567"
+  },
+  {
+    "account": "0x6899f448072222c98E65ce3f29d9CcB92C739ad1",
+    "collateralAmount": "1.0",
+    "loanAmount": "0.8",
+    "timeCreated": 1613285959,
+    "loanID": 99,
+    "timeClosed": 0,
+    "accruedInterest": "0.000000000008945978",
+    "totalFees": "0.000000000008945978"
+  },
+  {
+    "account": "0x6899f448072222c98E65ce3f29d9CcB92C739ad1",
+    "collateralAmount": "1.0",
+    "loanAmount": "0.8",
+    "timeCreated": 1613288496,
+    "loanID": 100,
+    "timeClosed": 0,
+    "accruedInterest": "0.000000000008943948",
+    "totalFees": "0.000000000008943948"
+  },
+  {
+    "account": "0x6899f448072222c98E65ce3f29d9CcB92C739ad1",
+    "collateralAmount": "1.0",
+    "loanAmount": "0.8",
+    "timeCreated": 1613293867,
+    "loanID": 101,
+    "timeClosed": 0,
+    "accruedInterest": "0.000000000008939651",
+    "totalFees": "0.000000000008939651"
+  },
+  {
+    "account": "0x6899f448072222c98E65ce3f29d9CcB92C739ad1",
+    "collateralAmount": "1.0",
+    "loanAmount": "0.8",
+    "timeCreated": 1613293867,
+    "loanID": 102,
+    "timeClosed": 0,
+    "accruedInterest": "0.000000000008939651",
+    "totalFees": "0.000000000008939651"
+  },
+  {
+    "account": "0x3Be2e55CEFa413aff52aDC2e94892Fd1478D41BB",
+    "collateralAmount": "1.0",
+    "loanAmount": "0.8",
+    "timeCreated": 1614133361,
+    "loanID": 104,
+    "timeClosed": 0,
+    "accruedInterest": "0.000000000008268056",
+    "totalFees": "0.000000000008268056"
+  }
+]
