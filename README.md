@@ -4,18 +4,18 @@ This tool gets the open loans info from synthetix trial loan of sUSD and sETH.
 
 ## How to use
 
-Init repo:
+1. Init repo:
 ```shell
 yarn
 ```
 
-Run local hardhat network with mainnet forking:
+2. Run local hardhat network with mainnet forking:
 
 ```shell
 npx hardhat node --fork https://eth-mainnet.alchemyapi.io/v2/<your_key>
 ```
 
-Run get-openloans.ts script to save open loans:
+3. Run get-openloans.ts script to save open loans:
 
 ```shell
 # npx hardhat run --network localhost scripts/get-openloans.ts
@@ -30,7 +30,9 @@ Total open loan amount: 59.2 sETH
 😀😀😀😀😀 Save 10 loans
 ```
 
-Check susd_loan.json and seth_loan.json for open loan details.
+4. Check susd_loan.json and seth_loan.json for open loan details.
+
+5. Use flashbots to liquidate these open loans, please refer to [flashbots mev job](https://github.com/flashbots/mev-job-board/blob/main/specs/snx-trial-loans.md).
 
 Good luck.
 
